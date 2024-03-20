@@ -2,6 +2,4 @@ using RimWorld;
 
 namespace LingGame;
 
-public class LingAliCompProperties_ForRabbit : CompProperties_AbilityEffect
-{
-}
+public class LingAliCompProperties_ForRabbit : CompProperties_AbilityEffect;

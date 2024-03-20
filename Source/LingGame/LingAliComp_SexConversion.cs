@@ -34,6 +34,6 @@ public class LingAliComp_SexConversion : CompAbilityEffect
             }
         }
 
-        target.Pawn.Drawer.renderer.graphics.ResolveAllGraphics();
+        target.Pawn.Drawer.renderer.SetAllGraphicsDirty();
     }
 }
